@@ -1,5 +1,2 @@
-
-SELECT TABLE_NAME 
-FROM INFORMATION_SCHEMA.TABLES 
-WHERE TABLE_SCHEMA = 'alx_book_store' 
-AND TABLE_TYPE = 'BASE TABLE';
+-- List all tables in alx_book_store database using SHOW TABLES
+SHOW TABLES;
