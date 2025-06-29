@@ -1,7 +1,7 @@
 Write a script that inserts multiple rows in the table customer (database alx_book_store) in your MySQL server.
 
 Data insertion
-
+INSERT INTO customer, VALUES
     - `customer_id` = `2`
     - `customer_name` = `Blessing Malik`
     - `email` = `bmalik@sandtech.com`
